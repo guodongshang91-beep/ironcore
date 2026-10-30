@@ -41,7 +41,7 @@ IronCore gives you a tool for each of the first three before you conclude the fo
 ## 30-second start
 
 ```bash
-git clone https://github.com/<you>/ironcore && cd ironcore
+git clone https://github.com/guodongshang91-beep/ironcore.git && cd ironcore
 
 # 1. Which folder is actually alive?
 python tools/locate_home.py
