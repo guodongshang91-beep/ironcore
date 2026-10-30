@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+extract/
+*.log
+captured_requests.jsonl
+sys_*.txt
+original_live_system.txt
+.venv/
+.DS_Store
