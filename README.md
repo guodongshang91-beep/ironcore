@@ -9,6 +9,12 @@ A verifiable system-prompt override kit for local LLM agents — locate the real
 [![Deps](https://img.shields.io/badge/dependencies-none-brightgreen.svg)](#requirements)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+<a href="assets/ironcore-intro.mp4">
+  <img src="assets/ironcore-poster.png" alt="IronCore — 40 second introduction" width="760">
+</a>
+
+**▶ [40 秒介绍视频](assets/ironcore-intro.mp4)** · [在线播放（CDN）](https://cdn.jsdelivr.net/gh/guodongshang91-beep/ironcore@main/assets/ironcore-intro.mp4)
+
 ```
 $ python tools/locate_home.py
 ** [120] C:\Users\me\.office-raccoon\agent     ← actually in use
